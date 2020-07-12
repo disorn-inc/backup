@@ -1,0 +1,8 @@
+# CMake generated Testfile for 
+# Source directory: /home/mycoss/vision_ws/src/rosserial/rosserial_test
+# Build directory: /home/mycoss/vision_ws/build/rosserial/rosserial_test
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(_ctest_rosserial_test_rostest_test_rosserial_server_socket.test "/home/mycoss/vision_ws/build/catkin_generated/env_cached.sh" "/usr/bin/python" "/opt/ros/melodic/share/catkin/cmake/test/run_tests.py" "/home/mycoss/vision_ws/build/test_results/rosserial_test/rostest-test_rosserial_server_socket.xml" "--return-code" "/usr/bin/python /opt/ros/melodic/share/rostest/cmake/../../../bin/rostest --pkgdir=/home/mycoss/vision_ws/src/rosserial/rosserial_test --package=rosserial_test --results-filename test_rosserial_server_socket.xml --results-base-dir \"/home/mycoss/vision_ws/build/test_results\" /home/mycoss/vision_ws/src/rosserial/rosserial_test/test/rosserial_server_socket.test ")
+add_test(_ctest_rosserial_test_rostest_test_rosserial_server_serial.test "/home/mycoss/vision_ws/build/catkin_generated/env_cached.sh" "/usr/bin/python" "/opt/ros/melodic/share/catkin/cmake/test/run_tests.py" "/home/mycoss/vision_ws/build/test_results/rosserial_test/rostest-test_rosserial_server_serial.xml" "--return-code" "/usr/bin/python /opt/ros/melodic/share/rostest/cmake/../../../bin/rostest --pkgdir=/home/mycoss/vision_ws/src/rosserial/rosserial_test --package=rosserial_test --results-filename test_rosserial_server_serial.xml --results-base-dir \"/home/mycoss/vision_ws/build/test_results\" /home/mycoss/vision_ws/src/rosserial/rosserial_test/test/rosserial_server_serial.test ")

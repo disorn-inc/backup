@@ -1,0 +1,8 @@
+prefix=/home/mycoss/catkin_ws/devel
+
+Name: steamcup
+Description: Description of steamcup
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mycoss/catkin_ws/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/mycoss/catkin_ws/devel
+
+Name: runforestrun
+Description: Description of runforestrun
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mycoss/catkin_ws/devel/lib 
+Requires: 

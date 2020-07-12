@@ -1,0 +1,2 @@
+ira_laser_tools:lane_grid:lane_laser_scan:rplidar_ros
+-DCATKIN_DEVEL_PREFIX=/home/mycoss/vision_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mycoss/vision_ws/install -G Unix Makefiles

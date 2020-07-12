@@ -1,0 +1,8 @@
+prefix=/home/mycoss/catkin_ws/devel
+
+Name: filters
+Description: Description of filters
+Version: 1.8.1
+Cflags: -I/home/mycoss/catkin_ws/src/filters/include
+Libs: -L/home/mycoss/catkin_ws/devel/lib -lmean -lparams -lincrement -lmedian -ltransfer_function
+Requires: roslib roscpp rosconsole pluginlib
